@@ -16,6 +16,7 @@ body {
 
 #hero {
     max-width: 60%;
+    filter: invert(1);
 }
 
 h1 {
